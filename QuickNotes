@@ -1,0 +1,22 @@
+python --version
+git clone https://github.com/yourusername/QuickNotes.git
+cd QuickNotes
+python quicknotes.py
+QuickNotes Menu:
+1. Show Notes
+2. Add Note
+3. Delete Note
+4. Exit
+$ python quicknotes.py
+QuickNotes Menu:
+1. Show Notes
+2. Add Note
+3. Delete Note
+4. Exit
+Enter your choice: 2
+Enter your note: Buy groceries
+Note added successfully!
+
+Enter your choice: 1
+Your Notes:
+1. Buy groceries
